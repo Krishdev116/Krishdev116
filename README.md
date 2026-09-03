@@ -126,12 +126,6 @@ parking slots using a map-based interface.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishdev116)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **Your LinkedIn URL**

@@ -2,15 +2,6 @@
 
 <h3 align="center">.NET Full Stack Developer | C# | ASP.NET Core | React | SQL Server</h3>
 
-<p align="center">
-  <a href="https://github.com/Krishdev116">
-    <img src="https://img.shields.io/github/followers/Krishdev116?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Krishdev116">
-    <img src="https://img.shields.io/github/stars/Krishdev116?label=Stars&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me

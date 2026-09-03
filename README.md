@@ -70,6 +70,7 @@ check availability, and book parking slots near airports.
 - SQL Server
 - React
 - REST APIs
+- Azure
 
 **My Contribution:**
 
@@ -119,10 +120,8 @@ parking slots using a map-based interface.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **Your LinkedIn URL**
-- 🌐 Portfolio: **Your Vercel Portfolio URL**
-- 📧 Email: **Your professional email**
+- 💼 LinkedIn: https://www.linkedin.com/in/krishna-kishore-d-0710a9270/
+- 🌐 Portfolio: https://krishnakishore-portfolio.vercel.app/
+- 📧 Email: krishnakishore.tech@gmail.com
 
----
 
-⭐ Feel free to explore my repositories and connect with me!
